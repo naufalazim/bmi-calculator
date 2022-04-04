@@ -9,5 +9,5 @@ In the project directory, you can run:
 ### `npm start`
 
 ### `Demo`
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/naufalazim/bmi-calculator/blob/main/img-github.png)
 
